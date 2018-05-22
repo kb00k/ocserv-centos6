@@ -32,7 +32,7 @@ function ConfigEnvironmentVariable {
     version=${1-${ocserv_version}}
     libtasn1_version=4.5
     # variable setting
-    # The maximum number of single IP connections, the default is 2
+    # The maximum number of single IP connections, the default is 2
     maxsameclients=10
     # The maximum number of connections, the default is 16
     maxclients=1024
